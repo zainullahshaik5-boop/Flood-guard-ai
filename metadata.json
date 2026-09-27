@@ -1,0 +1,6 @@
+{
+  "name": "FLOOD GUARD AI - Flash Flood Early Prediction & Disaster Response",
+  "description": "AI-powered flash flood prediction, multi-source telemetry monitoring, and emergency response system for hilly regions (Smart India Hackathon SIH26192).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
